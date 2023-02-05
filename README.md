@@ -16,5 +16,5 @@ This repository contains an 8-Bit MIPS designed from the ground up using Cadence
 
 # Credits:
 
-Developed as class project for Notre Dame's Intro to Very Large Scale Integration, CSE-40462, taught by Dr. Matthew Morrison.
+Developed as class project for Notre Dame's Intro to Very Large Scale Integration, CSE-40462, taught by [Dr. Matthew Morrison](https://www.linkedin.com/in/gregariousmatt/).
 
